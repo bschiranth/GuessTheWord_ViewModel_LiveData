@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/d75288116f8a0c13178397d9839a5f51/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/f630c895ff20852504aebf8e60797761/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-rc02.aar/33378659f7f20242a121f30ed397bea5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/31555e0762b811cce7544b3fd52065c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/55c47dd4f37cb4ddac6d00ed55d23bd8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/5072a8e7e28231c6360499d3e8a5d9e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d793b406658a14770e48bdb7d333e739/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/68d9a1a8f5d19ddfaa104e1add31540c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/0eee84962ff4b8fe483faa24725c151f/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-rc02.aar/fbda545803183c4ac6e7d195af005016/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-rc02.aar/ba73e92d40cceb58c5c7d11620f5d5a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0897409b7d915ced664919bd41c7ac7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ba65e4b1e49fc00621d396af2a32b17a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d4fbac82e727c361e6b718b8357d5d63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/dc147292d890f202802d9f574a278a01/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-rc02.aar/49797844d213bc8c285b8ad59172b822/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-rc02.aar/125864656f53785d3fc13578c18cdbc0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ed1a07b4525b1dab5cf4601ec1798de6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/fed2eb09183fa371b6fb5f2bae1c9db0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/037afc6bc55d5fe22abf99bd8593bd2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/007d0fa0712f893fe5d301c9810ec269/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/0cfd2a89d59bac4b4a1355d827b79bfa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/13f0d913c13b4b22256fe66e7a3f2648/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/9815d7ffc9276134dc2d9f01cd1d44e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/0f58706f446b220d445bcf9283cbe51a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/e340faccbda03855fd820cede2fdf155/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0da0330b290894bddbb72b67aaa2b1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/26d0f78b2f87914f3e07a1fe655d666a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/705c186c2cb6153d290913ecfd24b9ee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-rc02.aar/e90191746f98686d353e62d336521f99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-rc02.aar/4c1da1c3861245c03d8e480c38cf9b62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4eaf20edf6578cf30a62aca7d4629e81/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/6ab5e665e5444e20c7c456a18122a674/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/d3ad70d9666188b812739e2770675dc8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3604eae1ac096bfe4e3becf4fbe121ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a48d2b4fefccbb7623282b290d92b0ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/81fe3938ec9a0980b1cbaf0e78ee2646/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b158b4663dc865df6789a6cb611951e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/635bed771058c5ca6460838758e5b582/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/1a8c28724f2aca4012cc336a2b41c454/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9ad6e465bbd9df494b4ebd23f6a7947d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/8c1d0ecb8c9dd47b1fe21f5e728dc483/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/cc54d8ac89fc81cb000184de41af7860/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/f277e63554f3505cf3173f46907546cc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:19:5-47
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:1-43:12
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:21:5-41:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/55c47dd4f37cb4ddac6d00ed55d23bd8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/55c47dd4f37cb4ddac6d00ed55d23bd8/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d793b406658a14770e48bdb7d333e739/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d793b406658a14770e48bdb7d333e739/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4eaf20edf6578cf30a62aca7d4629e81/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4eaf20edf6578cf30a62aca7d4629e81/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/d3ad70d9666188b812739e2770675dc8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/d3ad70d9666188b812739e2770675dc8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4eaf20edf6578cf30a62aca7d4629e81/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:24:9-41
+	tools:ignore
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:28:9-48
+	android:roundIcon
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.guesstheword.MainActivity
+ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:33:9-40:20
+	android:name
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:33:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/d75288116f8a0c13178397d9839a5f51/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/d75288116f8a0c13178397d9839a5f51/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/f630c895ff20852504aebf8e60797761/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/f630c895ff20852504aebf8e60797761/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-rc02.aar/33378659f7f20242a121f30ed397bea5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-rc02.aar/33378659f7f20242a121f30ed397bea5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/31555e0762b811cce7544b3fd52065c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/31555e0762b811cce7544b3fd52065c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/55c47dd4f37cb4ddac6d00ed55d23bd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/55c47dd4f37cb4ddac6d00ed55d23bd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/5072a8e7e28231c6360499d3e8a5d9e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/5072a8e7e28231c6360499d3e8a5d9e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d793b406658a14770e48bdb7d333e739/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d793b406658a14770e48bdb7d333e739/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/68d9a1a8f5d19ddfaa104e1add31540c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/68d9a1a8f5d19ddfaa104e1add31540c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/0eee84962ff4b8fe483faa24725c151f/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/0eee84962ff4b8fe483faa24725c151f/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-rc02.aar/fbda545803183c4ac6e7d195af005016/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-rc02.aar/fbda545803183c4ac6e7d195af005016/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-rc02.aar/ba73e92d40cceb58c5c7d11620f5d5a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-rc02.aar/ba73e92d40cceb58c5c7d11620f5d5a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0897409b7d915ced664919bd41c7ac7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/0897409b7d915ced664919bd41c7ac7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ba65e4b1e49fc00621d396af2a32b17a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ba65e4b1e49fc00621d396af2a32b17a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d4fbac82e727c361e6b718b8357d5d63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d4fbac82e727c361e6b718b8357d5d63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/dc147292d890f202802d9f574a278a01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/dc147292d890f202802d9f574a278a01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-rc02.aar/49797844d213bc8c285b8ad59172b822/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-rc02.aar/49797844d213bc8c285b8ad59172b822/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-rc02.aar/125864656f53785d3fc13578c18cdbc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-rc02.aar/125864656f53785d3fc13578c18cdbc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ed1a07b4525b1dab5cf4601ec1798de6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ed1a07b4525b1dab5cf4601ec1798de6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/fed2eb09183fa371b6fb5f2bae1c9db0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/fed2eb09183fa371b6fb5f2bae1c9db0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/037afc6bc55d5fe22abf99bd8593bd2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/037afc6bc55d5fe22abf99bd8593bd2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/007d0fa0712f893fe5d301c9810ec269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/007d0fa0712f893fe5d301c9810ec269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/0cfd2a89d59bac4b4a1355d827b79bfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/0cfd2a89d59bac4b4a1355d827b79bfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/13f0d913c13b4b22256fe66e7a3f2648/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/13f0d913c13b4b22256fe66e7a3f2648/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/9815d7ffc9276134dc2d9f01cd1d44e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/9815d7ffc9276134dc2d9f01cd1d44e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/0f58706f446b220d445bcf9283cbe51a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/0f58706f446b220d445bcf9283cbe51a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/e340faccbda03855fd820cede2fdf155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/e340faccbda03855fd820cede2fdf155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0da0330b290894bddbb72b67aaa2b1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0da0330b290894bddbb72b67aaa2b1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/26d0f78b2f87914f3e07a1fe655d666a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/26d0f78b2f87914f3e07a1fe655d666a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/705c186c2cb6153d290913ecfd24b9ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/705c186c2cb6153d290913ecfd24b9ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-rc02.aar/e90191746f98686d353e62d336521f99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-rc02.aar/e90191746f98686d353e62d336521f99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-rc02.aar/4c1da1c3861245c03d8e480c38cf9b62/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-rc02.aar/4c1da1c3861245c03d8e480c38cf9b62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4eaf20edf6578cf30a62aca7d4629e81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/4eaf20edf6578cf30a62aca7d4629e81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/6ab5e665e5444e20c7c456a18122a674/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/6ab5e665e5444e20c7c456a18122a674/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/d3ad70d9666188b812739e2770675dc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/d3ad70d9666188b812739e2770675dc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3604eae1ac096bfe4e3becf4fbe121ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3604eae1ac096bfe4e3becf4fbe121ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a48d2b4fefccbb7623282b290d92b0ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a48d2b4fefccbb7623282b290d92b0ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/81fe3938ec9a0980b1cbaf0e78ee2646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/81fe3938ec9a0980b1cbaf0e78ee2646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b158b4663dc865df6789a6cb611951e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b158b4663dc865df6789a6cb611951e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/635bed771058c5ca6460838758e5b582/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/635bed771058c5ca6460838758e5b582/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/1a8c28724f2aca4012cc336a2b41c454/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/1a8c28724f2aca4012cc336a2b41c454/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9ad6e465bbd9df494b4ebd23f6a7947d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9ad6e465bbd9df494b4ebd23f6a7947d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/8c1d0ecb8c9dd47b1fe21f5e728dc483/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/8c1d0ecb8c9dd47b1fe21f5e728dc483/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/cc54d8ac89fc81cb000184de41af7860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/cc54d8ac89fc81cb000184de41af7860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/f277e63554f3505cf3173f46907546cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bschiranth1692/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/f277e63554f3505cf3173f46907546cc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml

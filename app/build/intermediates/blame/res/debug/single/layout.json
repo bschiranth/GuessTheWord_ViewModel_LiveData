@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/score_fragment.xml",
+        "source": "/Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/score_fragment.xml"
+    },
+    {
+        "merged": "/Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/title_fragment.xml",
+        "source": "/Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/title_fragment.xml"
+    },
+    {
+        "merged": "/Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/game_fragment.xml",
+        "source": "/Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/game_fragment.xml"
+    }
+]

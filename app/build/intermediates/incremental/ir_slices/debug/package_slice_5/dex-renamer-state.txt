@@ -1,0 +1,4 @@
+#Sun Aug 04 18:15:34 CDT 2019
+base.0=/Users/bschiranth1692/Documents/Android/udacity_kotlin/GuessIt_ViewModel/andfun-kotlin-guess-it-starter-code/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
