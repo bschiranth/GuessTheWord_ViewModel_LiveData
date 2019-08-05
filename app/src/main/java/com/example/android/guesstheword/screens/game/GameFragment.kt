@@ -54,6 +54,8 @@ class GameFragment : Fragment() {
 
         binding.gameViewModel = gameViewModel
 
+        binding.lifecycleOwner = this
+
         //data binding handles this
        /* binding.correctButton.setOnClickListener {
             gameViewModel.onCorrect()
@@ -66,9 +68,9 @@ class GameFragment : Fragment() {
             binding.scoreText.text = newScore.toString()
         })
 
-        gameViewModel.word.observe(this, Observer { newWord ->
+      /*  gameViewModel.word.observe(this, Observer { newWord ->
             binding.wordText.text = newWord
-        })
+        })*/
 
         gameViewModel.gameOver.observe(this, Observer {hasFinshed ->
             if (hasFinshed) {
