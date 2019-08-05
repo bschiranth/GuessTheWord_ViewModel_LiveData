@@ -79,9 +79,10 @@ class GameFragment : Fragment() {
             }
         })
 
-        gameViewModel.currentTime.observe(this, Observer { newTime ->
-            binding.timerText.text = DateUtils.formatElapsedTime(newTime)
-        })
+        //transformation binding handles this
+       /* gameViewModel.currentTimeString.observe(this, Observer { newTime ->
+            binding.timerText.text = newTime
+        })*/
 
         return binding.root
 
